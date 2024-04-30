@@ -20,4 +20,4 @@ while(true) {
     }
 }
 
-console.log(`Média poderada: ${(valores/pesos).toFixed(2)}`);
+console.log(`Média ponderada: ${(valores/pesos).toFixed(2)}`);
