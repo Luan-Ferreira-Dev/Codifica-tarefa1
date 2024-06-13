@@ -1,5 +1,5 @@
 # Sobre
-Repositório contém as atividades do **Módulo 1 - Introdução à Lógica de Programação** do curso Full Stack da +PraTi e Codifica.
+Repositório contém a lista de exercícios 1 do **Módulo 1 - Introdução à Lógica de Programação** do curso Full Stack da +PraTi e Codifica.
 ## Configurações
 Necessário instalar Node.js.
 ### Linux (Ubuntu)
@@ -27,7 +27,7 @@ Download [Node.js](https://nodejs.org/en/download/current)
 ## Execução
 Clone o repositório.
 ```sh
-git clone https://github.com/Luan-Ferreira-Dev/Codifica-tarefa1.git
+git clone https://github.com/Luan-Ferreira-Dev/maisPraTi_lista1
 ```
 Instale as dependências.
 ```sh
